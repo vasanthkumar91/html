@@ -1,0 +1,28 @@
+table{
+    background-color: pink;
+    text-align: center;
+    border-radius: -200;
+    box-shadow: rgb(208, 132, 80);
+    height: 200px;
+    width: 300px;
+}
+h2{
+    text-align: center;
+    background-color: rgb(142, 228, 206);
+}
+body{
+    text-align: center;
+    background-color: lightcyan;
+}
+button{
+    border: rgb(50, 170, 144);
+    padding: 30px;
+    background-color:lightcyan;
+
+}
+input{
+    background-color: rgb(220, 241, 208);
+    width: 300px;
+    border-color: black;
+    border-style: groove;
+    height: 50px;
